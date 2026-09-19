@@ -201,7 +201,7 @@ body {
         --bg-gradient: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
         --card-bg: #1e293b;
 
-        --primary-color: #f8fafc;
+        --primary-color: #15395e;
         --text-primary: #f8fafc;
         --text-secondary: #94a3b8;
         --accent-color: #38bdf8;
@@ -212,5 +212,8 @@ body {
     }
 
 }
-/*cerar un repositorio en git hub */
+
+/*cerar un repositorio en git hub 
+
+usuario.github.io/nombre_del_repositorio*/
 
